@@ -1,7 +1,7 @@
 ### About Me
 
 ➤ Data Science & Artificial Intelligence Engineering Student.  
-➤ Robotics & Computer Vision enthusiast.
+➤ I mainly focus on Computer Vision & NLP.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
