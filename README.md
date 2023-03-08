@@ -1,6 +1,6 @@
 ### About Me
 
-➤ **Data Scientist** | Working on Computer Vision & Remote Sensing.  
+➤ **Data Scientist |** Working on Computer Vision & Remote Sensing.  
 ➤ Seeking innovative ways to harness data #forgood.
 <!--
 - 🔭 I’m currently working on ...
