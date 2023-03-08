@@ -1,7 +1,7 @@
 ### About Me
 
-➤ Data Science & Artificial Intelligence Engineering Student.  
-➤ I mainly focus on Computer Vision & NLP.
+➤ **Data Scientist** | Working on Computer Vision & Remote Sensing.  
+➤ Seeking innovative ways to harness data #forgood.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
